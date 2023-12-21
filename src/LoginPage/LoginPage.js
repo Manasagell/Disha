@@ -1,8 +1,10 @@
 import React from 'react'
+import CustReg from '../CustomerRegistration/CustReg'
 
 const LoginPage = () => {
   return (
-    <div>LoginPage</div>
+    <div><CustReg/></div>
+
   )
 }
 
